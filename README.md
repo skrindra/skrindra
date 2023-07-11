@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shiva
 =============================================================================================================================
 
-Python developer
-----------------
+Python developer & AI Enthusiast
+--------------------------------
 
-I'm a biotechnologist turned techie, who switched to code full time & build stuffs. I develop stunning web apps using Django & Flask. Always hunting ideas on what to build! As a developer, I thrive on the process of transforming ideas into reality. I'm constantly on the lookout for new and innovative concepts to bring to life through my code. Whether it's crafting an intuitive user interface, architecting a scalable backend, or implementing cutting-edge features, I take pride in building web applications that not only meet but exceed expectations.
+I'm a biotechnologist turned techie, who switched to code full time & build stuffs. I develop stunning web apps using Django & Flask. Always hunting ideas on what to build! As a developer, I thrive on the process of transforming ideas into reality. I'm constantly on the lookout for new and innovative concepts to bring to life through my code. Whether it's crafting an intuitive user interface, architecting a scalable backend, or implementing cutting-edge features, I take pride in building web applications that not only meet but exceed expectations. 
+Not only that, I've been a crazy lover of AI. So, building on it as well.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Shiva's TechSpace](http://shivastechspace.com)
