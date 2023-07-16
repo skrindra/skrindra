@@ -8,7 +8,7 @@ I'm a biotechnologist turned techie, who switched to code full time & build stuf
 Not only that, I've been a crazy lover of AI. So, building on it as well.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Shiva's TechSpace](http://shivastechspace.com)
+* 🖥️  See my portfolio at [Shiva's TechSpace](https://shivastechspace.onrender.com/)
 * ✉️  You can contact me at [skr.iitg@gmail.com](mailto:skr.iitg@gmail.com)
 * 🚀  I'm currently working on [CafeConnect App](http://cafeconnect.onrender.com/)
 * 🧠  I'm learning React & Docker
